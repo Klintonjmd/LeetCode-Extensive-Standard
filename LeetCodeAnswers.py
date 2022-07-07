@@ -2,7 +2,7 @@
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hashset = set()
+        
         
         for n in nums:
             if n in hashset:
@@ -69,7 +69,7 @@ class Solution:
 
 #347 Top K Frequent Elements --- Hashing and Arrays --- Medium --- Bucketsort + My own concept
 
-#Solution 1: O(n),O(n)
+#Solution 1 (Bucketsort): O(n),O(n)
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         count = {}
@@ -86,3 +86,7 @@ class Solution:
                 res.append(n)
                 if len(res) == k:
                     return res
+
+#238 Product of Array Except Self --- Hashing and Arrays --- Medium
+
+
