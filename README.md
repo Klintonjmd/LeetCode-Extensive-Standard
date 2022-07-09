@@ -1,4 +1,4 @@
-# LeetCode-Extensive-Standard
+# LeetCode-Comprehensive-Standard
 
 This repo is intended to be a comprehensive assembly of leetcode problems, answers, and documentation.
 
