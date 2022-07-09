@@ -15,3 +15,9 @@ Problems will be divided up by their respective algorthim / data structure solut
 5. Optimal Solution and Time Complexity
 6. Final Thoughts
 7. Subsequent Attempts and Revisions
+
+# Sources
+https://supersimple.dev/courses/git-github-complete-course-20211
+https://www.coursera.org/learn/algorithms-part1
+https://www.coursera.org/learn/algorithms-part2
+https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
